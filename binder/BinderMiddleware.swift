@@ -1,6 +1,6 @@
 //
 //  BinderMiddleware.swift
-//  CatchupiOS
+//  Binder
 //
 //  Created by Anthony Ezeh on 07/09/2022.
 //
